@@ -1,4 +1,4 @@
-# Self-hosted CLI
+# Self-hosted CLI for the NVCF - Added as test
 
 This page provides documentation for the NVCF Self-hosted CLI, a command-line interface for managing NVIDIA Cloud Functions in self-hosted deployments.
 
